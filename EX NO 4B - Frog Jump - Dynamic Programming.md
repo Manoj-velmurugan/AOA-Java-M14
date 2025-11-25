@@ -36,7 +36,7 @@ A single integer – number of distinct ways to reach step n.
 ```
 /*
 Developed by: MANOJ M V
-Register Number:  212222040058 
+Register Number:  212222220023 
 */
 import java.util.Scanner;
 
